@@ -19,15 +19,15 @@ function App() {
     <div className="grad-bg">
       <div className="container">
         <div className="row">
-          <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3"></div>
-          <div className="col-xs-6 col-sm-6 col-md-6 col-lg-6 set-m-mobile" style={{ backgroundColor: 'white', marginTop: '70px', borderRadius: '5px' }}>
+          <div className="col-xs-3 col-sm-3 col-md-2 col-lg-3"></div>
+          <div className="col-xs-6 col-sm-6 col-md-8 col-lg-6 set-m-mobile" style={{ backgroundColor: 'white', marginTop: '70px', borderRadius: '5px' }}>
             <center>
               <img src={logo_babypoom} width="120" style={{ borderRadius: '50% 50% 0px 0px', padding: '10px', backgroundColor: 'white', position: 'relative', top: -30 }} />
               <br />
               <img src={baby_european} className="baby-photo" />
             </center>
           </div>
-          <div className="col-xs-3 col-sm-3 col-md-3 col-lg-3"></div>
+          <div className="col-xs-3 col-sm-3 col-md-2 col-lg-3"></div>
         </div>
 
         {/* 2nd row */}
@@ -64,7 +64,7 @@ function App() {
               </div>
               <div className="col-xs-3 col-sm-6 col-md-3 col-lg-3 col-3-mg" style={{ color: 'white', padding: '5px' }}>
                 <div className="light-pink">
-                  <span>J'ai fini<img src={right_arrow} className="arrow-img" /></span>
+                  <span>J'ai&nbsp;fini&nbsp;<img src={right_arrow} className="arrow-img" /></span>
 
                 </div>
               </div>

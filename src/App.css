@@ -12,8 +12,8 @@
     /* color: red !important; */
 }
 .baby-photo{
-  width:400px;
-  padding: 0 50px 50px 50px;
+  width:70%;
+  padding: 0 50px 50px 30px;
 }
 .light-pink{
   background-color: rgb(245, 156, 154);
@@ -37,10 +37,11 @@
     margin-bottom: 10px !important;
   }
   .baby-photo{
+    /* width:100%; */
     width: 63%;
-      margin: 0px 0 35px 0;
-      height: 237px;
-      padding: 0 !important;
+      /* margin: 0px 0 35px 0; */
+      /* height: 237px; */
+      /* padding: 0 !important; */
   }
   .set-m-mobile{
     margin-left: 10px;
