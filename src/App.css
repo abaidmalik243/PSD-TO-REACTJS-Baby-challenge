@@ -3,3 +3,58 @@
   background: rgb(181,74,248);
   background: linear-gradient(0deg, rgba(181,74,248,1) 0%, rgba(91,148,237,1) 100%);
 }
+.cl-2-mg{
+  margin: 0 3px;
+}
+.col-3-mg{
+  align-self: flex-end;
+    margin-left: 14px;
+    /* color: red !important; */
+}
+.baby-photo{
+  width:400px;
+  padding: 0 50px 50px 50px;
+}
+.light-pink{
+  background-color: rgb(245, 156, 154);
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 23.5px 0px;
+}
+.arrow-img{
+  width: 18%;
+  position: relative;
+  bottom: 2px;
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 570px) {
+  .cl-2-mg,.col-3-mg{
+ margin: unset !important;
+  }
+  .col-3-mg{
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+  }
+  .baby-photo{
+    width: 63%;
+      margin: 0px 0 35px 0;
+      height: 237px;
+      padding: 0 !important;
+  }
+  .set-m-mobile{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .light-pink{
+    padding:4.5px 0px 4.5px 13px;
+      font-size: 20px;
+      /* width: 128px; */
+      /* padding: 0 !important; */
+      width: 160px;
+      margin: auto;
+  }
+  .arrow-img{
+    width: 13%;
+  }
+}
