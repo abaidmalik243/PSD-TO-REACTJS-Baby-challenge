@@ -3,11 +3,15 @@ import logo from './logo.svg';
 import baby_european from './assets/baby_european.png'
 import logo_babypoom from './assets/logo-babypoom.png'
 import gender from './assets/gender.svg';
+import baby from './assets/baby.svg';
+import stork from './assets/stork.svg';
+import cubes from './assets/cubes.svg';
+import right_arrow from './assets/right-arrow.svg';
 // import gender from './assets/gender.png';
-import baby from './assets/baby.png';
-import stork from './assets/stork.png';
-import cubes from './assets/cubes.png';
-import right_arrow from './assets/right-arrow.png';
+// import baby from './assets/baby.png';
+// import stork from './assets/stork.png';
+// import cubes from './assets/cubes.png';
+// import right_arrow from './assets/right-arrow.png';
 import './App.css';
 
 function App() {
