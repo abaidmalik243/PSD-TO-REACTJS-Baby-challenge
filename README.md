@@ -8,7 +8,7 @@ To run Project:
 -----------------------------------------------------------------------
 
 # Mobile View 
-![PSD IMAGE:](/developedScreens/MobileView.png);
+![Mobile IMAGE:](/resources/developedScreens/MobileView.png);
 
 # Desktop View 
-![PSD IMAGE:](/developedScreens/DesktopView.png);
+![Desktop IMAGE:](/resources/developedScreens/DesktopView.png);
